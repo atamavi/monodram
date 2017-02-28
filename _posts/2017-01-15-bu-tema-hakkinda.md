@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This is markdown cheatsheet demo
+title: bu tema hakkında
 tags: [Demo, Markdown]
 ---
 **Bu tema hakkında**
