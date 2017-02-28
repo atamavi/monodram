@@ -25,14 +25,6 @@ ul {
 /**
  * Basic styling
  */
-
-body {
-    font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-    color: $text-color;
-    background-color: $background-color;
-    background-image:url('https://2.bp.blogspot.com/-z7dzaALPyQQ/TcdpZ44TcPI/AAAAAAAAAZw/VVgoCu5sN10/s1600/dot.gif')
-        
-}
 .sagkolon{
 	border-radius:10px;
 	padding: 15px;
@@ -41,6 +33,14 @@ body {
 	border:1px solid #008000;
 
  }
+
+body {
+    font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+    color: $text-color;
+    background-color: $background-color;
+    background-image:url('https://2.bp.blogspot.com/-z7dzaALPyQQ/TcdpZ44TcPI/AAAAAAAAAZw/VVgoCu5sN10/s1600/dot.gif')
+        
+}
 
 .orta{
       margin: 0 auto;
