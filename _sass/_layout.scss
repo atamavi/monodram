@@ -7,6 +7,16 @@
     max-width: 48rem;
 }
 
+@media screen and (max-width:865px) {
+	.col-xs-9{
+	width:30% !important;
+		
+	}
+	.sagkolon{
+		overflow-y: scroll !important;
+
+	}
+}
 .smallcap {
     text-transform: lowercase;
     font-variant: small-caps;
