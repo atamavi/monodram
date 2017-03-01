@@ -44,10 +44,23 @@ text-align: center;
 color:#339367;
 
 }
-.fuutir:hover{
-    background-image: url('https://m.popkey.co/dee3e0/Ep7Dm.gif')
+.buton{
+
+    color:#339367;
+    letter-spacing: 1px;
+    overflow:hidden;
+    background-color: #333;
+    width:150px;
+}
+.buton:hover{
+background-color: #333;
+background: black;
+border-radius: 10px;
+border: 2px solid #339367;
+
 
 }
+
 .orta{
       margin: 0 auto;
         width:960px;
