@@ -3,6 +3,7 @@ layout: post
 title: bu tema hakkında
 tags: [Demo, Markdown]
 author: admin
+category: monodram
 ---
 **Bu tema hakkında**
 Temanın orjinal hali budur<br>
