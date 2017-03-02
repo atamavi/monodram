@@ -5,13 +5,17 @@ layout: default
 <div class="sagkolon">
 
 <ul class="list-group blog">
+	{% raw %}
+
 	{% for post in site.posts %}
 	  {% if post.author contains 'ata mavi' %}
 
 
   <li><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time><a href="{{ post.url | prepend: site.baseurl }}" class="list-group-item">{{ post.title }}</a></li>
-  	{% endfor %}
   {% endif %}
+
+	{% endfor %}
+{% endraw %}
 
 </ul>
 
