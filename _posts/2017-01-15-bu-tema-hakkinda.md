@@ -2,6 +2,7 @@
 layout: post
 title: bu tema hakkında
 tags: [Demo, Markdown]
+author: sonadam
 category: monodram
 ---
 **Bu tema hakkında**
