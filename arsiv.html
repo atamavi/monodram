@@ -6,6 +6,7 @@ layout: default
 
 <ul class="list-group blog">
 	{% for post in site.categories.arsiv %}
+  {{ arsiv.output }}
 
   <li><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time><a href="{{ post.url | prepend: site.baseurl }}" class="list-group-item">{{ post.title }}</a></li>
   	{% endfor %}
