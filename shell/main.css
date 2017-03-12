@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css?family=Orbitron');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+body {
+
+/*background-color: #1a1a10 !important;*/
+background-image:url('https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-456992.jpg');
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-position:center;
+background-size:100%;
+
+}
+body a{
+         text-decoration:none !important;
+
+}
+.logo{
+            margin:auto;
+            text-align: center;
+            font-weight:bolder;
+             width:70%;
+            height:40px;
+            background-color: black;
+            font-size: 25px;
+            font-family: 'Orbitron', sans-serif;
+            border:1px solid #008000;
+
+
+            }
+.logo font{
+color:#008000 !important;
+}
+.logo:hover{
+    border:2px solid #008000;
+}
+.container-fluid{
+padding-left:160px !important;
+padding-right:160px !important;
+
+
+}
+
+.vaziyetal{
+    margin:auto;
+    margin-top:5px;
+    width:70%;
+    background-color: black;
+    border: 1px solid #008000;
+    overflow-x: scroll;
+    overflow:hidden;
+}
+.vaziyetal .foto{
+display: block;
+margin: auto;
+width: 40%;
+width:551px;
+height:215px;
+border:1px solid #008000;
+margin-top:3px;
+position:relative;
+}
+
+.vaziyetal .sheller{
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+.sheller table{
+margin: auto;
+color:#008000;
+border: 1px solid #008000;
+text-align: center;
+font-size:17px;
+width:360px;
+}
+.sheller table a:hover{
+    color:#008000
+
+}
+.nav {
+    text-align: center;
+    font-family: Courier New, Courier, monospace;
+    
+}
+.arac{
+    margin:auto;
+}
+.arac .buton{
+    color:#18ff62;
+    letter-spacing:1px;
+    overflow:hidden;
+    background-color:#000;
+    border-radius:10px;
+    display:inline-block;
+    border-color:#008000;
+}
