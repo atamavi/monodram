@@ -4,6 +4,8 @@ title: DevilzShell İndirme ve Kullanımı
 tags: [logsuz shell indir, DevilzShell indir,backdoor download,shell nasıl kullanılır,shell indir,bypass shell indir]
 author: sonadam
 category: monodram
+date: '2016-04-13T20:23:00.002-08:00'
+
 ---
 **DevilZshell** Kullanımı 
 **b374k** kodlayan adam tarafından kodlanmış bir shelldir kolay bi arayüze sahip zaten her şey tek sayfada bitiyor 
