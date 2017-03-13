@@ -22,5 +22,6 @@ Komutlar | Commands
 Kullanım | Using
 1-> chmod +x ./logsil
     ./logsil
-2-> ./ddos.pl -help
+2-> chmod +x ./ddos.pl
+    ./ddos.pl -help   
 3-> ./msfyukle.sh
