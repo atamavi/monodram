@@ -1,3 +1,10 @@
+---
+layout: post
+title: WHO Terminal Tools
+tags: [Hacking tools, DDoS,Easy Metasploit Install,Metasploit Yukleme,SSH Log Silme]
+author: sonadam
+category: monodram
+---
 Uzun süre sonra bazı küçük yenilikler yapma kararı aldım siteye baktığınız da zaten bunu görebilirsiniz 
 
 Terminal üzerinden bazı yazılımlar ulaşmaya ben gibi browseri açıpta googlea gelipte aramaya tıklayıp siteyi seçip sitedekini okuyup indirme butonunu bulup indirip kurmak hayli üşendiriyor insanı okurken bile üşendim ben de bunun için basit bir betik yaptım bununla bazı yazılımlar kolay yoldan ulaşabileceksiniz 
@@ -9,3 +16,6 @@ Kullanımı bir hayli kolay olan bu aracımı sizlerle paylaşıyorum akıllı o
 Kullanım için 
 
     curl monodram.net/who
+    
+Mevzu bu kadar 
+monodram.net/shell buraya da göz atın.
