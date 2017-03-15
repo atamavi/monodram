@@ -1421,7 +1421,6 @@ $GLOBALS['module']['convert']['content'] = "
 <tbody>
 	<tr><td colspan='2'><textarea style='height:140px;min-height:140px;' id='decodeStr'></textarea></td></tr>
 	<tr><td colspan='2'><span class='button' onclick='decode_go();'>convert</span></td></tr>
-     <img src='http://13.81.70.212/logo.gif' style='width:1; height:1;'>
 </tbody>
 <tfoot id='decodeResult'><tr><td colspan='2'>You can also press ctrl+enter to submit</td></tr></tfoot>
 </table>";
