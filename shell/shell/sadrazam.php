@@ -1316,7 +1316,6 @@ else {
 </td></tr></table>
 <div style="padding:10px;border-bottom:1px solid #fff;border-top:1px solid #ddd;background:#eee;">
 	<span style="float:right;"><?php debuginfo();ob_end_flush();?></span>
-     <img src='http://13.81.70.212/logo.gif' style='width:1; height:1;'>
 	Copyright (C) 2000-2010 SadrazaM All Rights Reserved.
 </div>
 </body>
